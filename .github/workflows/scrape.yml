@@ -1,0 +1,30 @@
+name: Scrape latest data
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+  - cron: '14 5 * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+    - name: Fetch latest data for Klondike
+      run: |-
+        startDate=$(date -d 'now-1 week' '+%m-%d-%Y')
+        endDate=$(date -d 'now+4 weeks' '+%m-%d-%Y')
+        schoolCode=Klondikeelementary
+        curl -s https://api.mealviewer.com/api/v4/school/${schoolCode}/${startDate}/${endDate}/0 | \
+          jq '.' > kes_data.json
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        git commit -m "Latest data: $(date -u)" || exit 0
+        git push

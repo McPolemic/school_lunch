@@ -1,13 +1,5 @@
 [
   {
-    "2022-12-06": {
-      "entrees": [
-        "SOFT TACO",
-        "HAM AND CHEESE ON BUN"
-      ]
-    }
-  },
-  {
     "2022-12-07": {
       "entrees": [
         "HOT DOG ON BUN",
@@ -126,6 +118,14 @@
       "entrees": [
         "CHICKEN FAJITAS",
         "TURKEY AND CHEESE ON BUN"
+      ]
+    }
+  },
+  {
+    "2023-01-11": {
+      "entrees": [
+        "MINI CORN DOGS",
+        "CHEF SALAD HAM W/ROLL"
       ]
     }
   }

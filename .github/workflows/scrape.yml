@@ -20,7 +20,7 @@ jobs:
         endDate=$(date -d 'now+4 weeks' '+%m-%d-%Y')
         schoolCode=Klondikeelementary
         curl -s https://api.mealviewer.com/api/v4/school/${schoolCode}/${startDate}/${endDate}/0 | \
-          jq -f meal_filter.jq > kes_data.json
+          jq -f meal_filter.jq > ./data/kes_data.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"

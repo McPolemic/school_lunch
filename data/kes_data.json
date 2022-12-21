@@ -1,13 +1,5 @@
 [
   {
-    "2022-12-13": {
-      "entrees": [
-        "CHICKEN FAJITAS",
-        "TURKEY AND CHEESE ON BUN"
-      ]
-    }
-  },
-  {
     "2022-12-14": {
       "entrees": [
         "TURKEY AND GRAVY",
@@ -44,6 +36,14 @@
       "entrees": [
         "TEXAS STRAW HATS",
         "HAM AND CHEESE ON BUN"
+      ]
+    }
+  },
+  {
+    "2022-12-21": {
+      "entrees": [
+        "PEPPERONI PIZZA",
+        "YOGURT/CHEESE/CINN CRISP"
       ]
     }
   },
@@ -114,10 +114,7 @@
   },
   {
     "2023-01-16": {
-      "entrees": [
-        "BREADED CHICKEN FILLET",
-        "CHIPS/CHEESE & SALSA"
-      ]
+      "entrees": []
     }
   },
   {
@@ -125,6 +122,14 @@
       "entrees": [
         "TEXAS STRAW HATS",
         "HAM AND CHEESE ON BUN"
+      ]
+    }
+  },
+  {
+    "2023-01-18": {
+      "entrees": [
+        "SALISBURY STEAK W/GRAVY",
+        "CHICKEN TACO SALAD"
       ]
     }
   }

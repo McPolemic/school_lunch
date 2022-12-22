@@ -1,13 +1,5 @@
 [
   {
-    "2022-12-14": {
-      "entrees": [
-        "TURKEY AND GRAVY",
-        "CINNAMON CRISP/YOGURT/SC"
-      ]
-    }
-  },
-  {
     "2022-12-15": {
       "entrees": [
         "FRENCH TOAST STICKS",
@@ -130,6 +122,14 @@
       "entrees": [
         "SALISBURY STEAK W/GRAVY",
         "CHICKEN TACO SALAD"
+      ]
+    }
+  },
+  {
+    "2023-01-19": {
+      "entrees": [
+        "BREAKFAST SANDWICH",
+        "TRIPLE DECKER PBJ"
       ]
     }
   }

@@ -1,13 +1,5 @@
 [
   {
-    "2022-12-20": {
-      "entrees": [
-        "TEXAS STRAW HATS",
-        "HAM AND CHEESE ON BUN"
-      ]
-    }
-  },
-  {
     "2022-12-21": {
       "entrees": [
         "PEPPERONI PIZZA",
@@ -130,6 +122,14 @@
       "entrees": [
         "PASTA W/MEAT SAUCE",
         "TURKEY AND CHEESE ON BUN"
+      ]
+    }
+  },
+  {
+    "2023-01-25": {
+      "entrees": [
+        "CORN DOG",
+        "CHEF SALAD HAM W/ROLL"
       ]
     }
   }

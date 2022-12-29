@@ -1,13 +1,5 @@
 [
   {
-    "2022-12-21": {
-      "entrees": [
-        "PEPPERONI PIZZA",
-        "YOGURT/CHEESE/CINN CRISP"
-      ]
-    }
-  },
-  {
     "2023-01-04": {
       "entrees": [
         "HOT DOG ON BUN",
@@ -130,6 +122,14 @@
       "entrees": [
         "CORN DOG",
         "CHEF SALAD HAM W/ROLL"
+      ]
+    }
+  },
+  {
+    "2023-01-26": {
+      "entrees": [
+        "BISCUIT W/SAUSAGE GRAVY",
+        "TRIPLE DECKER PBJ"
       ]
     }
   }

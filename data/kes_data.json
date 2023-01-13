@@ -1,13 +1,5 @@
 [
   {
-    "2023-01-05": {
-      "entrees": [
-        "CHICKEN NUGGETS",
-        "TRIPLE DECKER PBJ"
-      ]
-    }
-  },
-  {
     "2023-01-06": {
       "entrees": [
         "CHEESE PIZZA",
@@ -203,6 +195,14 @@
       "entrees": [
         "FRENCH TOAST STICKS",
         "TRIPLE DECKER PBJ"
+      ]
+    }
+  },
+  {
+    "2023-02-10": {
+      "entrees": [
+        "BOSCO CHEESE BREADSTICK",
+        "OVEN FRIED CHICKEN SALAD"
       ]
     }
   }

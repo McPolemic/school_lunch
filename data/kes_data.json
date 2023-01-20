@@ -1,13 +1,5 @@
 [
   {
-    "2023-01-12": {
-      "entrees": [
-        "FRENCH TOAST STICKS",
-        "TRIPLE DECKER PBJ"
-      ]
-    }
-  },
-  {
     "2023-01-13": {
       "entrees": [
         "BOSCO CHEESE BREADSTICK",
@@ -202,6 +194,14 @@
       "entrees": [
         "BREAKFAST SANDWICH",
         "TRIPLE DECKER PBJ"
+      ]
+    }
+  },
+  {
+    "2023-02-17": {
+      "entrees": [
+        "PEPPERONI PIZZA",
+        "YOGURT/CHEESE/CINN CRISP"
       ]
     }
   }

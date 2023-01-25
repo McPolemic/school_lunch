@@ -1,13 +1,5 @@
 [
   {
-    "2023-01-17": {
-      "entrees": [
-        "TEXAS STRAW HATS",
-        "HAM AND CHEESE ON BUN"
-      ]
-    }
-  },
-  {
     "2023-01-18": {
       "entrees": [
         "SALISBURY STEAK W/GRAVY",
@@ -202,6 +194,14 @@
       "entrees": [
         "CHICKEN ALFREDO",
         "TURKEY AND CHEESE ON BUN"
+      ]
+    }
+  },
+  {
+    "2023-02-22": {
+      "entrees": [
+        "CORN DOG",
+        "CHEF SALAD HAM W/ROLL"
       ]
     }
   }

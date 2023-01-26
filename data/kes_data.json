@@ -1,13 +1,5 @@
 [
   {
-    "2023-01-18": {
-      "entrees": [
-        "SALISBURY STEAK W/GRAVY",
-        "CHICKEN TACO SALAD"
-      ]
-    }
-  },
-  {
     "2023-01-19": {
       "entrees": [
         "BREAKFAST SANDWICH",
@@ -202,6 +194,14 @@
       "entrees": [
         "CORN DOG",
         "CHEF SALAD HAM W/ROLL"
+      ]
+    }
+  },
+  {
+    "2023-02-23": {
+      "entrees": [
+        "BISCUIT W/SAUSAGE GRAVY",
+        "TRIPLE DECKER PBJ"
       ]
     }
   }

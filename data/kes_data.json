@@ -1,13 +1,5 @@
 [
   {
-    "2023-01-25": {
-      "entrees": [
-        "CORN DOG",
-        "CHEF SALAD HAM W/ROLL"
-      ]
-    }
-  },
-  {
     "2023-01-26": {
       "entrees": [
         "CORN DOG",
@@ -197,6 +189,22 @@
       "entrees": [
         "SOFT TACO",
         "HAM AND CHEESE ON BUN"
+      ]
+    }
+  },
+  {
+    "2023-03-01": {
+      "entrees": [
+        "HOT DOG ON BUN",
+        "CHEF SALAD CHICKEN W/ROLL"
+      ]
+    }
+  },
+  {
+    "2023-03-02": {
+      "entrees": [
+        "CHICKEN NUGGETS",
+        "TRIPLE DECKER PBJ"
       ]
     }
   }

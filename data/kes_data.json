@@ -1,13 +1,5 @@
 [
   {
-    "2023-01-26": {
-      "entrees": [
-        "CORN DOG",
-        "TRIPLE DECKER PBJ"
-      ]
-    }
-  },
-  {
     "2023-01-27": {
       "entrees": [
         "BREADED MOZZARELLA STIX",
@@ -205,6 +197,14 @@
       "entrees": [
         "CHICKEN NUGGETS",
         "TRIPLE DECKER PBJ"
+      ]
+    }
+  },
+  {
+    "2023-03-03": {
+      "entrees": [
+        "CHEESE PIZZA",
+        "YOGURT/CHEESE/CINN CRISP"
       ]
     }
   }

@@ -1,13 +1,5 @@
 [
   {
-    "2023-02-07": {
-      "entrees": [
-        "CHICKEN FAJITAS",
-        "HAM AND CHEESE ON BUN"
-      ]
-    }
-  },
-  {
     "2023-02-08": {
       "entrees": [
         "MINI CORN DOGS",
@@ -204,6 +196,14 @@
       "entrees": [
         "TEXAS STRAW HATS",
         "HAM AND CHEESE ON BUN"
+      ]
+    }
+  },
+  {
+    "2023-03-15": {
+      "entrees": [
+        "SALISBURY STEAK W/GRAVY",
+        "CHICKEN TACO SALAD"
       ]
     }
   }

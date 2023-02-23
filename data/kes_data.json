@@ -1,13 +1,5 @@
 [
   {
-    "2023-02-15": {
-      "entrees": [
-        "COUNTRY FRIED STEAK",
-        "CHICKEN TACO SALAD"
-      ]
-    }
-  },
-  {
     "2023-02-16": {
       "entrees": [
         "BREAKFAST SANDWICH",
@@ -205,6 +197,14 @@
       "entrees": [
         "CORN DOG",
         "CHEF SALAD HAM W/ROLL"
+      ]
+    }
+  },
+  {
+    "2023-03-23": {
+      "entrees": [
+        "BISCUIT W/SAUSAGE GRAVY",
+        "TRIPLE DECKER PBJ"
       ]
     }
   }

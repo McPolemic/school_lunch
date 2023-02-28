@@ -1,13 +1,5 @@
 [
   {
-    "2023-02-20": {
-      "entrees": [
-        "POPCORN CHICKEN",
-        "PIZZA MUNCHABLE"
-      ]
-    }
-  },
-  {
     "2023-02-21": {
       "entrees": [
         "CHICKEN ALFREDO",
@@ -202,6 +194,11 @@
   },
   {
     "2023-03-27": {
+      "entrees": []
+    }
+  },
+  {
+    "2023-03-28": {
       "entrees": []
     }
   }

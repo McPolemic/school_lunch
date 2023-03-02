@@ -1,13 +1,5 @@
 [
   {
-    "2023-02-22": {
-      "entrees": [
-        "CORN DOG",
-        "CHEF SALAD HAM W/ROLL"
-      ]
-    }
-  },
-  {
     "2023-02-23": {
       "entrees": [
         "BISCUIT W/SAUSAGE GRAVY",
@@ -196,6 +188,11 @@
   },
   {
     "2023-03-29": {
+      "entrees": []
+    }
+  },
+  {
+    "2023-03-30": {
       "entrees": []
     }
   }

@@ -1,13 +1,5 @@
 [
   {
-    "2023-02-23": {
-      "entrees": [
-        "BISCUIT W/SAUSAGE GRAVY",
-        "TRIPLE DECKER PBJ"
-      ]
-    }
-  },
-  {
     "2023-02-24": {
       "entrees": [
         "BREADED MOZZARELLA STIX",
@@ -193,6 +185,11 @@
   },
   {
     "2023-03-30": {
+      "entrees": []
+    }
+  },
+  {
+    "2023-03-31": {
       "entrees": []
     }
   }

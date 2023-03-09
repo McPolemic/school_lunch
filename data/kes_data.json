@@ -1,13 +1,5 @@
 [
   {
-    "2023-03-01": {
-      "entrees": [
-        "HOT DOG ON BUN",
-        "CHEF SALAD CHICKEN W/ROLL"
-      ]
-    }
-  },
-  {
     "2023-03-02": {
       "entrees": [
         "CHICKEN NUGGETS",
@@ -191,6 +183,14 @@
       "entrees": [
         "MINI CORN DOGS",
         "CHEF SALAD HAM W/ROLL"
+      ]
+    }
+  },
+  {
+    "2023-04-06": {
+      "entrees": [
+        "FRENCH TOAST STICKS",
+        "TRIPLE DECKER PBJ"
       ]
     }
   }

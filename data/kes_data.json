@@ -1,13 +1,5 @@
 [
   {
-    "2023-03-07": {
-      "entrees": [
-        "CHICKEN FAJITAS",
-        "TURKEY AND CHEESE ON BUN"
-      ]
-    }
-  },
-  {
     "2023-03-08": {
       "entrees": [
         "MINI CORN DOGS",
@@ -190,6 +182,14 @@
       "entrees": [
         "TEXAS STRAW HATS",
         "HAM AND CHEESE ON BUN"
+      ]
+    }
+  },
+  {
+    "2023-04-12": {
+      "entrees": [
+        "COUNTRY FRIED STEAK",
+        "CHICKEN TACO SALAD"
       ]
     }
   }

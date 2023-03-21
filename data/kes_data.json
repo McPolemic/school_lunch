@@ -1,13 +1,5 @@
 [
   {
-    "2023-03-13": {
-      "entrees": [
-        "BREADED CHICKEN FILLET",
-        "CHIPS/CHEESE & SALSA"
-      ]
-    }
-  },
-  {
     "2023-03-14": {
       "entrees": [
         "TEXAS STRAW HATS",
@@ -190,6 +182,14 @@
       "entrees": [
         "POPCORN CHICKEN",
         "PIZZA MUNCHABLE"
+      ]
+    }
+  },
+  {
+    "2023-04-18": {
+      "entrees": [
+        "CHICKEN ALFREDO",
+        "TURKEY AND CHEESE ON BUN"
       ]
     }
   }

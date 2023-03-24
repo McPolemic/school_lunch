@@ -1,13 +1,5 @@
 [
   {
-    "2023-03-16": {
-      "entrees": [
-        "BREAKFAST SANDWICH",
-        "TRIPLE DECKER PBJ"
-      ]
-    }
-  },
-  {
     "2023-03-17": {
       "entrees": [
         "PEPPERONI PIZZA",
@@ -190,6 +182,14 @@
       "entrees": [
         "BISCUIT W/SAUSAGE GRAVY",
         "TRIPLE DECKER PBJ"
+      ]
+    }
+  },
+  {
+    "2023-04-21": {
+      "entrees": [
+        "BREADED MOZZARELLA STIX",
+        "OVEN FRIED CHICKEN SALAD"
       ]
     }
   }

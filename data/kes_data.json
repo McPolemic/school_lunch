@@ -152,5 +152,14 @@
         "CHIPS/CHEESE & SALSA"
       ]
     }
+  },
+  {
+    "2023-05-01": {
+      "entrees": [
+        "HAMBURGER ON BUN",
+        "CHEESEBURGER ON BUN",
+        "PIZZA MUNCHABLE"
+      ]
+    }
   }
 ]

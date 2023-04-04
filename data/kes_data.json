@@ -1,10 +1,5 @@
 [
   {
-    "2023-03-27": {
-      "entrees": []
-    }
-  },
-  {
     "2023-03-28": {
       "entrees": []
     }
@@ -159,6 +154,14 @@
         "HAMBURGER ON BUN",
         "CHEESEBURGER ON BUN",
         "PIZZA MUNCHABLE"
+      ]
+    }
+  },
+  {
+    "2023-05-02": {
+      "entrees": [
+        "CHICKEN FAJITAS",
+        "TURKEY AND CHEESE ON BUN"
       ]
     }
   }

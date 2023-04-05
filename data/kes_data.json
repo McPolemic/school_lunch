@@ -1,10 +1,5 @@
 [
   {
-    "2023-03-28": {
-      "entrees": []
-    }
-  },
-  {
     "2023-03-29": {
       "entrees": []
     }
@@ -162,6 +157,14 @@
       "entrees": [
         "CHICKEN FAJITAS",
         "TURKEY AND CHEESE ON BUN"
+      ]
+    }
+  },
+  {
+    "2023-05-03": {
+      "entrees": [
+        "MINI CORN DOGS",
+        "CHEF SALAD HAM W/ROLL"
       ]
     }
   }

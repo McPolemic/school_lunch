@@ -1,10 +1,5 @@
 [
   {
-    "2023-03-30": {
-      "entrees": []
-    }
-  },
-  {
     "2023-03-31": {
       "entrees": []
     }
@@ -200,6 +195,14 @@
       "entrees": [
         "FRENCH TOAST STICKS",
         "TRIPLE DECKER PBJ"
+      ]
+    }
+  },
+  {
+    "2023-05-05": {
+      "entrees": [
+        "BOSCO CHEESE BREADSTICK",
+        "OVEN FRIED CHICKEN SALAD"
       ]
     }
   }

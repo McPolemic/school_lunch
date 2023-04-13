@@ -1,13 +1,5 @@
 [
   {
-    "2023-04-05": {
-      "entrees": [
-        "MINI CORN DOGS",
-        "CHEF SALAD HAM W/ROLL"
-      ]
-    }
-  },
-  {
     "2023-04-06": {
       "entrees": [
         "FRENCH TOAST STICKS",
@@ -205,6 +197,14 @@
       "entrees": [
         "SALISBURY STEAK W/GRAVY",
         "CHICKEN TACO SALAD"
+      ]
+    }
+  },
+  {
+    "2023-05-11": {
+      "entrees": [
+        "BREAKFAST SANDWICH",
+        "TRIPLE DECKER PBJ"
       ]
     }
   }

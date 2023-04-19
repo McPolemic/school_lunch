@@ -1,13 +1,5 @@
 [
   {
-    "2023-04-11": {
-      "entrees": [
-        "TEXAS STRAW HATS",
-        "HAM AND CHEESE ON BUN"
-      ]
-    }
-  },
-  {
     "2023-04-12": {
       "entrees": [
         "COUNTRY FRIED STEAK",
@@ -205,6 +197,14 @@
       "entrees": [
         "PASTA W/MEAT SAUCE",
         "TURKEY AND CHEESE ON BUN"
+      ]
+    }
+  },
+  {
+    "2023-05-17": {
+      "entrees": [
+        "CORN DOG",
+        "CHEF SALAD HAM W/ROLL"
       ]
     }
   }

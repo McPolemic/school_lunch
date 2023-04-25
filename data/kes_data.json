@@ -1,13 +1,5 @@
 [
   {
-    "2023-04-17": {
-      "entrees": [
-        "POPCORN CHICKEN",
-        "PIZZA MUNCHABLE"
-      ]
-    }
-  },
-  {
     "2023-04-18": {
       "entrees": [
         "CHICKEN ALFREDO",
@@ -205,6 +197,14 @@
       "entrees": [
         "BREADED CHICKEN FILLET",
         "CHIPS/CHEESE & SALSA"
+      ]
+    }
+  },
+  {
+    "2023-05-23": {
+      "entrees": [
+        "SOFT TACO",
+        "HAM AND CHEESE ON BUN"
       ]
     }
   }

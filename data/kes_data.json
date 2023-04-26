@@ -1,13 +1,5 @@
 [
   {
-    "2023-04-18": {
-      "entrees": [
-        "CHICKEN ALFREDO",
-        "TURKEY AND CHEESE ON BUN"
-      ]
-    }
-  },
-  {
     "2023-04-19": {
       "entrees": [
         "CORN DOG",
@@ -205,6 +197,13 @@
       "entrees": [
         "SOFT TACO",
         "HAM AND CHEESE ON BUN"
+      ]
+    }
+  },
+  {
+    "2023-05-24": {
+      "entrees": [
+        "HOT DOG ON BUN"
       ]
     }
   }

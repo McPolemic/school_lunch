@@ -1,14 +1,5 @@
 [
   {
-    "2023-05-01": {
-      "entrees": [
-        "HAMBURGER ON BUN",
-        "CHEESEBURGER ON BUN",
-        "PIZZA MUNCHABLE"
-      ]
-    }
-  },
-  {
     "2023-05-02": {
       "entrees": [
         "CHICKEN FAJITAS",
@@ -156,6 +147,14 @@
       "entrees": [
         "BREADED CHICKEN FILLET",
         "CHIPS/CHEESE & SALSA"
+      ]
+    }
+  },
+  {
+    "2023-06-06": {
+      "entrees": [
+        "SOFT TACO",
+        "HAM AND CHEESE ON BUN"
       ]
     }
   }

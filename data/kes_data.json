@@ -1,13 +1,5 @@
 [
   {
-    "2023-05-02": {
-      "entrees": [
-        "CHICKEN FAJITAS",
-        "TURKEY AND CHEESE ON BUN"
-      ]
-    }
-  },
-  {
     "2023-05-03": {
       "entrees": [
         "MINI CORN DOGS",
@@ -155,6 +147,13 @@
       "entrees": [
         "SOFT TACO",
         "HAM AND CHEESE ON BUN"
+      ]
+    }
+  },
+  {
+    "2023-06-07": {
+      "entrees": [
+        "CHEF SALAD CHICKEN W/ROLL"
       ]
     }
   }

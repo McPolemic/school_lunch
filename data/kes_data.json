@@ -12,6 +12,7 @@
     "2023-08-15": {
       "entrees": [
         "CHICKEN FAJITAS",
+        "TURKEY AND CHEESE ON BUN",
         "TURKEY AND CHEESE ON BUN"
       ]
     }
@@ -20,6 +21,7 @@
     "2023-08-16": {
       "entrees": [
         "MINI CORN DOGS",
+        "PIZZA MUNCHABLE",
         "CHEF SALAD HAM W/ROLL"
       ]
     }
@@ -28,6 +30,7 @@
     "2023-08-17": {
       "entrees": [
         "FRENCH TOAST STICKS",
+        "TRIPLE DECKER PBJ",
         "TRIPLE DECKER PBJ"
       ]
     }
@@ -36,6 +39,7 @@
     "2023-08-18": {
       "entrees": [
         "BOSCO CHEESE BREADSTICK",
+        "YOGURT/CHEESE/CINN CRISP",
         "OVEN FRIED CHICKEN SALAD"
       ]
     }
@@ -61,6 +65,14 @@
       "entrees": [
         "COUNTRY FRIED STEAK",
         "CHICKEN TACO SALAD"
+      ]
+    }
+  },
+  {
+    "2023-08-24": {
+      "entrees": [
+        "BREAKFAST SANDWICH",
+        "TRIPLE DECKER PBJ"
       ]
     }
   }

@@ -1,18 +1,12 @@
 [
   {
     "2023-08-14": {
-      "entrees": [
-        "HAMBURGER ON BUN",
-        "CHEESEBURGER ON BUN",
-        "PIZZA MUNCHABLE"
-      ]
+      "entrees": []
     }
   },
   {
     "2023-08-15": {
       "entrees": [
-        "CHICKEN FAJITAS",
-        "TURKEY AND CHEESE ON BUN",
         "TURKEY AND CHEESE ON BUN"
       ]
     }
@@ -20,17 +14,13 @@
   {
     "2023-08-16": {
       "entrees": [
-        "MINI CORN DOGS",
-        "PIZZA MUNCHABLE",
-        "CHEF SALAD HAM W/ROLL"
+        "PIZZA MUNCHABLE"
       ]
     }
   },
   {
     "2023-08-17": {
       "entrees": [
-        "FRENCH TOAST STICKS",
-        "TRIPLE DECKER PBJ",
         "TRIPLE DECKER PBJ"
       ]
     }
@@ -38,24 +28,20 @@
   {
     "2023-08-18": {
       "entrees": [
-        "BOSCO CHEESE BREADSTICK",
-        "YOGURT/CHEESE/CINN CRISP",
-        "OVEN FRIED CHICKEN SALAD"
+        "YOGURT/CHEESE/CINN CRISP"
       ]
     }
   },
   {
     "2023-08-21": {
       "entrees": [
-        "BREADED CHICKEN FILLET",
-        "CHIPS/CHEESE & SALSA"
+        "SOFT PRETZEL & CHEESE CUP"
       ]
     }
   },
   {
     "2023-08-22": {
       "entrees": [
-        "TEXAS STRAW HATS",
         "HAM AND CHEESE ON BUN"
       ]
     }
@@ -63,16 +49,21 @@
   {
     "2023-08-23": {
       "entrees": [
-        "COUNTRY FRIED STEAK",
-        "CHICKEN TACO SALAD"
+        "CHIPS W CHEESE/SALSA"
       ]
     }
   },
   {
     "2023-08-24": {
       "entrees": [
-        "BREAKFAST SANDWICH",
-        "TRIPLE DECKER PBJ"
+        "ITALIAN SUB"
+      ]
+    }
+  },
+  {
+    "2023-08-25": {
+      "entrees": [
+        "CHEESE PIZZA"
       ]
     }
   }

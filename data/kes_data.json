@@ -104,15 +104,20 @@
   },
   {
     "2023-09-04": {
-      "entrees": [
-        "SOFT PRETZEL & CHEESE CUP"
-      ]
+      "entrees": []
     }
   },
   {
     "2023-09-05": {
       "entrees": [
         "HAM AND CHEESE ON BUN"
+      ]
+    }
+  },
+  {
+    "2023-09-06": {
+      "entrees": [
+        "CHIPS W CHEESE/SALSA"
       ]
     }
   }

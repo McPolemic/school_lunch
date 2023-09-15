@@ -1,12 +1,5 @@
 [
   {
-    "2023-09-07": {
-      "entrees": [
-        "ITALIAN SUB"
-      ]
-    }
-  },
-  {
     "2023-09-08": {
       "entrees": [
         "CHICKEN NUGGETS"
@@ -113,6 +106,74 @@
   },
   {
     "2023-09-29": {
+      "entrees": [
+        "yogurt/cheese/goldfish"
+      ]
+    }
+  },
+  {
+    "2023-10-02": {
+      "entrees": []
+    }
+  },
+  {
+    "2023-10-03": {
+      "entrees": [
+        "HAM AND CHEESE ON BUN"
+      ]
+    }
+  },
+  {
+    "2023-10-04": {
+      "entrees": [
+        "CHIPS W CHEESE/SALSA"
+      ]
+    }
+  },
+  {
+    "2023-10-05": {
+      "entrees": [
+        "ITALIAN SUB"
+      ]
+    }
+  },
+  {
+    "2023-10-06": {
+      "entrees": [
+        "CHICKEN NUGGETS"
+      ]
+    }
+  },
+  {
+    "2023-10-09": {
+      "entrees": [
+        "CHIPS W CHEESE/SALSA"
+      ]
+    }
+  },
+  {
+    "2023-10-10": {
+      "entrees": [
+        "TURKEY AND CHEESE ON BUN"
+      ]
+    }
+  },
+  {
+    "2023-10-11": {
+      "entrees": [
+        "PIZZA MUNCHABLE"
+      ]
+    }
+  },
+  {
+    "2023-10-12": {
+      "entrees": [
+        "TRIPLE DECKER PBJ"
+      ]
+    }
+  },
+  {
+    "2023-10-13": {
       "entrees": [
         "YOGURT/CHEESE/CINN CRISP"
       ]

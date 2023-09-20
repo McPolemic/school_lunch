@@ -1,12 +1,5 @@
 [
   {
-    "2023-09-12": {
-      "entrees": [
-        "TURKEY AND CHEESE ON BUN"
-      ]
-    }
-  },
-  {
     "2023-09-13": {
       "entrees": [
         "PIZZA MUNCHABLE"
@@ -113,9 +106,7 @@
   },
   {
     "2023-10-04": {
-      "entrees": [
-        "CHIPS W CHEESE/SALSA"
-      ]
+      "entrees": []
     }
   },
   {
@@ -163,7 +154,7 @@
   {
     "2023-10-13": {
       "entrees": [
-        "YOGURT/CHEESE/CINN CRISP"
+        "CHEESE PIZZA"
       ]
     }
   },
@@ -174,6 +165,11 @@
   },
   {
     "2023-10-17": {
+      "entrees": []
+    }
+  },
+  {
+    "2023-10-18": {
       "entrees": []
     }
   }

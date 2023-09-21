@@ -1,12 +1,5 @@
 [
   {
-    "2023-09-13": {
-      "entrees": [
-        "PIZZA MUNCHABLE"
-      ]
-    }
-  },
-  {
     "2023-09-14": {
       "entrees": [
         "TRIPLE DECKER PBJ"
@@ -93,7 +86,8 @@
   {
     "2023-10-02": {
       "entrees": [
-        "SOFT PRETZEL & CHEESE CUP"
+        "SOFT PRETZEL & CHEESE CUP",
+        "YOGURT CUP"
       ]
     }
   },
@@ -106,7 +100,9 @@
   },
   {
     "2023-10-04": {
-      "entrees": []
+      "entrees": [
+        "PIZZA MUNCHABLE"
+      ]
     }
   },
   {
@@ -160,17 +156,31 @@
   },
   {
     "2023-10-16": {
-      "entrees": []
+      "entrees": [
+        "SOFT PRETZEL & CHEESE CUP",
+        "YOGURT CUP"
+      ]
     }
   },
   {
     "2023-10-17": {
-      "entrees": []
+      "entrees": [
+        "HAM AND CHEESE ON BUN"
+      ]
     }
   },
   {
     "2023-10-18": {
-      "entrees": []
+      "entrees": [
+        "PIZZA MUNCHABLE"
+      ]
+    }
+  },
+  {
+    "2023-10-19": {
+      "entrees": [
+        "ITALIAN SUB"
+      ]
     }
   }
 ]

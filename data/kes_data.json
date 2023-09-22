@@ -1,12 +1,5 @@
 [
   {
-    "2023-09-14": {
-      "entrees": [
-        "TRIPLE DECKER PBJ"
-      ]
-    }
-  },
-  {
     "2023-09-15": {
       "entrees": [
         "YOGURT/CHEESE/CINN CRISP"
@@ -156,17 +149,12 @@
   },
   {
     "2023-10-16": {
-      "entrees": [
-        "SOFT PRETZEL & CHEESE CUP",
-        "YOGURT CUP"
-      ]
+      "entrees": []
     }
   },
   {
     "2023-10-17": {
-      "entrees": [
-        "HAM AND CHEESE ON BUN"
-      ]
+      "entrees": []
     }
   },
   {
@@ -180,6 +168,13 @@
     "2023-10-19": {
       "entrees": [
         "ITALIAN SUB"
+      ]
+    }
+  },
+  {
+    "2023-10-20": {
+      "entrees": [
+        "CHICKEN NUGGETS"
       ]
     }
   }

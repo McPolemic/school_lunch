@@ -1,12 +1,5 @@
 [
   {
-    "2023-09-18": {
-      "entrees": [
-        "SOFT PRETZEL & CHEESE CUP"
-      ]
-    }
-  },
-  {
     "2023-09-19": {
       "entrees": [
         "HAM AND CHEESE ON BUN"
@@ -175,6 +168,13 @@
     "2023-10-23": {
       "entrees": [
         "CHIPS W CHEESE/SALSA"
+      ]
+    }
+  },
+  {
+    "2023-10-24": {
+      "entrees": [
+        "TURKEY AND CHEESE ON BUN"
       ]
     }
   }

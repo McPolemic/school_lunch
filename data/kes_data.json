@@ -1,12 +1,5 @@
 [
   {
-    "2023-09-20": {
-      "entrees": [
-        "CHIPS W CHEESE/SALSA"
-      ]
-    }
-  },
-  {
     "2023-09-21": {
       "entrees": [
         "ITALIAN SUB"
@@ -175,6 +168,13 @@
     "2023-10-25": {
       "entrees": [
         "PIZZA MUNCHABLE"
+      ]
+    }
+  },
+  {
+    "2023-10-26": {
+      "entrees": [
+        "TRIPLE DECKER PBJ"
       ]
     }
   }

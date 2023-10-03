@@ -1,12 +1,5 @@
 [
   {
-    "2023-09-25": {
-      "entrees": [
-        "CHIPS W CHEESE/SALSA"
-      ]
-    }
-  },
-  {
     "2023-09-26": {
       "entrees": [
         "TURKEY AND CHEESE ON BUN"
@@ -131,9 +124,7 @@
   },
   {
     "2023-10-20": {
-      "entrees": [
-        "CHICKEN NUGGETS"
-      ]
+      "entrees": []
     }
   },
   {
@@ -145,9 +136,7 @@
   },
   {
     "2023-10-24": {
-      "entrees": [
-        "TURKEY AND CHEESE ON BUN"
-      ]
+      "entrees": []
     }
   },
   {
@@ -166,9 +155,7 @@
   },
   {
     "2023-10-27": {
-      "entrees": [
-        "CHEESE PIZZA"
-      ]
+      "entrees": []
     }
   },
   {
@@ -177,6 +164,11 @@
         "SOFT PRETZEL & CHEESE CUP",
         "YOGURT CUP"
       ]
+    }
+  },
+  {
+    "2023-10-31": {
+      "entrees": []
     }
   }
 ]

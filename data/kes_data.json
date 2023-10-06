@@ -1,12 +1,5 @@
 [
   {
-    "2023-09-28": {
-      "entrees": [
-        "TRIPLE DECKER PBJ"
-      ]
-    }
-  },
-  {
     "2023-09-29": {
       "entrees": [
         "yogurt/cheese/goldfish"
@@ -122,13 +115,15 @@
   },
   {
     "2023-10-24": {
-      "entrees": []
+      "entrees": [
+        "TURKEY AND CHEESE ON BUN"
+      ]
     }
   },
   {
     "2023-10-25": {
       "entrees": [
-        "PIZZA MUNCHABLE"
+        "CHICKEN NUGGETS"
       ]
     }
   },
@@ -141,30 +136,44 @@
   },
   {
     "2023-10-27": {
-      "entrees": []
+      "entrees": [
+        "CHEESE PIZZA"
+      ]
     }
   },
   {
     "2023-10-30": {
       "entrees": [
-        "SOFT PRETZEL & CHEESE CUP",
-        "YOGURT CUP"
+        "CORN DOG"
       ]
     }
   },
   {
     "2023-10-31": {
-      "entrees": []
+      "entrees": [
+        "ITALIAN SUB"
+      ]
     }
   },
   {
     "2023-11-01": {
-      "entrees": []
+      "entrees": [
+        "CHICKEN PATTY ON BUN"
+      ]
     }
   },
   {
     "2023-11-02": {
-      "entrees": []
+      "entrees": [
+        "CHIPS W CHEESE/SALSA"
+      ]
+    }
+  },
+  {
+    "2023-11-03": {
+      "entrees": [
+        "BOSCO CHEESE BREADSTICK"
+      ]
     }
   }
 ]

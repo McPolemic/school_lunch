@@ -1,12 +1,5 @@
 [
   {
-    "2023-10-03": {
-      "entrees": [
-        "HAM AND CHEESE ON BUN"
-      ]
-    }
-  },
-  {
     "2023-10-04": {
       "entrees": [
         "PIZZA MUNCHABLE"
@@ -172,6 +165,13 @@
     "2023-11-07": {
       "entrees": [
         "TURKEY AND CHEESE ON BUN"
+      ]
+    }
+  },
+  {
+    "2023-11-08": {
+      "entrees": [
+        "CHICKEN NUGGETS"
       ]
     }
   }

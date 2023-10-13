@@ -1,12 +1,5 @@
 [
   {
-    "2023-10-05": {
-      "entrees": [
-        "ITALIAN SUB"
-      ]
-    }
-  },
-  {
     "2023-10-06": {
       "entrees": [
         "CHICKEN NUGGETS"
@@ -172,6 +165,13 @@
     "2023-11-09": {
       "entrees": [
         "TRIPLE DECKER PBJ"
+      ]
+    }
+  },
+  {
+    "2023-11-10": {
+      "entrees": [
+        "CHEESE PIZZA"
       ]
     }
   }

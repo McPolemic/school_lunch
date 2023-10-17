@@ -1,12 +1,5 @@
 [
   {
-    "2023-10-09": {
-      "entrees": [
-        "CHIPS W CHEESE/SALSA"
-      ]
-    }
-  },
-  {
     "2023-10-10": {
       "entrees": [
         "TURKEY AND CHEESE ON BUN"
@@ -172,6 +165,13 @@
     "2023-11-13": {
       "entrees": [
         "CORN DOG"
+      ]
+    }
+  },
+  {
+    "2023-11-14": {
+      "entrees": [
+        "ITALIAN SUB"
       ]
     }
   }

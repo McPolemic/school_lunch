@@ -1,12 +1,5 @@
 [
   {
-    "2023-10-11": {
-      "entrees": [
-        "PIZZA MUNCHABLE"
-      ]
-    }
-  },
-  {
     "2023-10-12": {
       "entrees": [
         "TRIPLE DECKER PBJ"
@@ -172,6 +165,13 @@
     "2023-11-15": {
       "entrees": [
         "CHICKEN PATTY ON BUN"
+      ]
+    }
+  },
+  {
+    "2023-11-16": {
+      "entrees": [
+        "CHIPS W CHEESE/SALSA"
       ]
     }
   }

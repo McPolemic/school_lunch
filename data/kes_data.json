@@ -1,10 +1,5 @@
 [
   {
-    "2023-10-16": {
-      "entrees": []
-    }
-  },
-  {
     "2023-10-17": {
       "entrees": []
     }
@@ -172,6 +167,13 @@
     "2023-11-20": {
       "entrees": [
         "HOT DOG ON BUN"
+      ]
+    }
+  },
+  {
+    "2023-11-21": {
+      "entrees": [
+        "TURKEY AND CHEESE ON BUN"
       ]
     }
   }

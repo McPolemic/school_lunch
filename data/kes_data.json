@@ -1,10 +1,5 @@
 [
   {
-    "2023-10-17": {
-      "entrees": []
-    }
-  },
-  {
     "2023-10-18": {
       "entrees": [
         "PIZZA MUNCHABLE"
@@ -174,6 +169,13 @@
     "2023-11-21": {
       "entrees": [
         "TURKEY AND CHEESE ON BUN"
+      ]
+    }
+  },
+  {
+    "2023-11-22": {
+      "entrees": [
+        "CHICKEN NUGGETS"
       ]
     }
   }

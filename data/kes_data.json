@@ -1,12 +1,5 @@
 [
   {
-    "2023-10-25": {
-      "entrees": [
-        "CHICKEN NUGGETS"
-      ]
-    }
-  },
-  {
     "2023-10-26": {
       "entrees": [
         "TRIPLE DECKER PBJ"
@@ -178,6 +171,13 @@
     "2023-11-29": {
       "entrees": [
         "CHICKEN PATTY ON BUN"
+      ]
+    }
+  },
+  {
+    "2023-11-30": {
+      "entrees": [
+        "CHIPS W CHEESE/SALSA"
       ]
     }
   }

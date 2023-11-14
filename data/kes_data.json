@@ -1,12 +1,5 @@
 [
   {
-    "2023-11-06": {
-      "entrees": [
-        "HOT DOG ON BUN"
-      ]
-    }
-  },
-  {
     "2023-11-07": {
       "entrees": [
         "TURKEY AND CHEESE ON BUN"
@@ -136,6 +129,55 @@
     "2023-12-01": {
       "entrees": [
         "BOSCO CHEESE BREADSTICK"
+      ]
+    }
+  },
+  {
+    "2023-12-04": {
+      "entrees": [
+        "HOT DOG ON BUN"
+      ]
+    }
+  },
+  {
+    "2023-12-05": {
+      "entrees": [
+        "TURKEY AND CHEESE ON BUN"
+      ]
+    }
+  },
+  {
+    "2023-12-06": {
+      "entrees": [
+        "CHICKEN NUGGETS"
+      ]
+    }
+  },
+  {
+    "2023-12-07": {
+      "entrees": [
+        "TRIPLE DECKER PBJ"
+      ]
+    }
+  },
+  {
+    "2023-12-08": {
+      "entrees": [
+        "CHEESE PIZZA"
+      ]
+    }
+  },
+  {
+    "2023-12-11": {
+      "entrees": [
+        "CORN DOG"
+      ]
+    }
+  },
+  {
+    "2023-12-12": {
+      "entrees": [
+        "ITALIAN SUB"
       ]
     }
   }

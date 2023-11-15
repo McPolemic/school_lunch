@@ -1,12 +1,5 @@
 [
   {
-    "2023-11-07": {
-      "entrees": [
-        "TURKEY AND CHEESE ON BUN"
-      ]
-    }
-  },
-  {
     "2023-11-08": {
       "entrees": [
         "CHICKEN NUGGETS"
@@ -178,6 +171,13 @@
     "2023-12-12": {
       "entrees": [
         "ITALIAN SUB"
+      ]
+    }
+  },
+  {
+    "2023-12-13": {
+      "entrees": [
+        "CHICKEN PATTY ON BUN"
       ]
     }
   }

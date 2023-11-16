@@ -1,12 +1,5 @@
 [
   {
-    "2023-11-08": {
-      "entrees": [
-        "CHICKEN NUGGETS"
-      ]
-    }
-  },
-  {
     "2023-11-09": {
       "entrees": [
         "TRIPLE DECKER PBJ"
@@ -128,28 +121,28 @@
   {
     "2023-12-04": {
       "entrees": [
-        "HOT DOG ON BUN"
+        "CHICKEN NUGGETS"
       ]
     }
   },
   {
     "2023-12-05": {
       "entrees": [
-        "TURKEY AND CHEESE ON BUN"
+        "HOT DOG ON BUN"
       ]
     }
   },
   {
     "2023-12-06": {
       "entrees": [
-        "CHICKEN NUGGETS"
+        "POPCORN CHICKEN"
       ]
     }
   },
   {
     "2023-12-07": {
       "entrees": [
-        "TRIPLE DECKER PBJ"
+        "CORN DOG"
       ]
     }
   },
@@ -163,21 +156,28 @@
   {
     "2023-12-11": {
       "entrees": [
-        "CORN DOG"
+        "CHICKEN PATTY ON BUN"
       ]
     }
   },
   {
     "2023-12-12": {
       "entrees": [
-        "ITALIAN SUB"
+        "HAMBURGER ON BUN"
       ]
     }
   },
   {
     "2023-12-13": {
       "entrees": [
-        "CHICKEN PATTY ON BUN"
+        "BREADED MOZZARELLA STIX"
+      ]
+    }
+  },
+  {
+    "2023-12-14": {
+      "entrees": [
+        "MINI CORN DOGS"
       ]
     }
   }

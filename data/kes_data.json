@@ -1,12 +1,5 @@
 [
   {
-    "2023-11-09": {
-      "entrees": [
-        "TRIPLE DECKER PBJ"
-      ]
-    }
-  },
-  {
     "2023-11-10": {
       "entrees": [
         "CHEESE PIZZA"
@@ -178,6 +171,13 @@
     "2023-12-14": {
       "entrees": [
         "MINI CORN DOGS"
+      ]
+    }
+  },
+  {
+    "2023-12-15": {
+      "entrees": [
+        "BOSCO CHEESE BREADSTICK"
       ]
     }
   }

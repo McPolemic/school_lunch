@@ -1,12 +1,5 @@
 [
   {
-    "2023-11-13": {
-      "entrees": [
-        "CORN DOG"
-      ]
-    }
-  },
-  {
     "2023-11-14": {
       "entrees": [
         "ITALIAN SUB"
@@ -178,6 +171,13 @@
     "2023-12-18": {
       "entrees": [
         "CHICKEN NUGGETS"
+      ]
+    }
+  },
+  {
+    "2023-12-19": {
+      "entrees": [
+        "HOT DOG ON BUN"
       ]
     }
   }

@@ -1,12 +1,5 @@
 [
   {
-    "2023-11-14": {
-      "entrees": [
-        "ITALIAN SUB"
-      ]
-    }
-  },
-  {
     "2023-11-15": {
       "entrees": [
         "CHICKEN PATTY ON BUN"
@@ -178,6 +171,13 @@
     "2023-12-19": {
       "entrees": [
         "HOT DOG ON BUN"
+      ]
+    }
+  },
+  {
+    "2023-12-20": {
+      "entrees": [
+        "POPCORN CHICKEN"
       ]
     }
   }

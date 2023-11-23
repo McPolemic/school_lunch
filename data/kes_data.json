@@ -1,12 +1,5 @@
 [
   {
-    "2023-11-15": {
-      "entrees": [
-        "CHICKEN PATTY ON BUN"
-      ]
-    }
-  },
-  {
     "2023-11-16": {
       "entrees": [
         "CHIPS W CHEESE/SALSA"
@@ -178,6 +171,13 @@
     "2023-12-20": {
       "entrees": [
         "POPCORN CHICKEN"
+      ]
+    }
+  },
+  {
+    "2023-12-21": {
+      "entrees": [
+        "CORN DOG"
       ]
     }
   }

@@ -1,12 +1,5 @@
 [
   {
-    "2023-11-21": {
-      "entrees": [
-        "TURKEY AND CHEESE ON BUN"
-      ]
-    }
-  },
-  {
     "2023-11-22": {
       "entrees": [
         "CHICKEN NUGGETS"
@@ -178,6 +171,13 @@
     "2023-12-26": {
       "entrees": [
         "HAMBURGER ON BUN"
+      ]
+    }
+  },
+  {
+    "2023-12-27": {
+      "entrees": [
+        "BREADED MOZZARELLA STIX"
       ]
     }
   }

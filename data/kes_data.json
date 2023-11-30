@@ -1,12 +1,5 @@
 [
   {
-    "2023-11-22": {
-      "entrees": [
-        "CHICKEN NUGGETS"
-      ]
-    }
-  },
-  {
     "2023-11-23": {
       "entrees": [
         "TRIPLE DECKER PBJ"
@@ -178,6 +171,13 @@
     "2023-12-27": {
       "entrees": [
         "BREADED MOZZARELLA STIX"
+      ]
+    }
+  },
+  {
+    "2023-12-28": {
+      "entrees": [
+        "MINI CORN DOGS"
       ]
     }
   }

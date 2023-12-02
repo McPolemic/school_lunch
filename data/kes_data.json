@@ -1,12 +1,5 @@
 [
   {
-    "2023-11-24": {
-      "entrees": [
-        "CHEESE PIZZA"
-      ]
-    }
-  },
-  {
     "2023-11-27": {
       "entrees": [
         "CORN DOG"
@@ -155,30 +148,22 @@
   },
   {
     "2023-12-26": {
-      "entrees": [
-        "HAMBURGER ON BUN"
-      ]
+      "entrees": []
     }
   },
   {
     "2023-12-27": {
-      "entrees": [
-        "BREADED MOZZARELLA STIX"
-      ]
+      "entrees": []
     }
   },
   {
     "2023-12-28": {
-      "entrees": [
-        "MINI CORN DOGS"
-      ]
+      "entrees": []
     }
   },
   {
     "2023-12-29": {
-      "entrees": [
-        "BOSCO CHEESE BREADSTICK"
-      ]
+      "entrees": []
     }
   }
 ]

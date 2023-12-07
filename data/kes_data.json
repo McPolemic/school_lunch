@@ -1,12 +1,5 @@
 [
   {
-    "2023-11-29": {
-      "entrees": [
-        "CHICKEN PATTY ON BUN"
-      ]
-    }
-  },
-  {
     "2023-11-30": {
       "entrees": [
         "CHIPS W CHEESE/SALSA"
@@ -165,6 +158,13 @@
   {
     "2024-01-03": {
       "entrees": []
+    }
+  },
+  {
+    "2024-01-04": {
+      "entrees": [
+        "CORN DOG"
+      ]
     }
   }
 ]

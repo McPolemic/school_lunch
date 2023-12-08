@@ -1,12 +1,5 @@
 [
   {
-    "2023-11-30": {
-      "entrees": [
-        "CHIPS W CHEESE/SALSA"
-      ]
-    }
-  },
-  {
     "2023-12-01": {
       "entrees": [
         "BOSCO CHEESE BREADSTICK"
@@ -164,6 +157,13 @@
     "2024-01-04": {
       "entrees": [
         "CORN DOG"
+      ]
+    }
+  },
+  {
+    "2024-01-05": {
+      "entrees": [
+        "CHEESE PIZZA"
       ]
     }
   }

@@ -1,12 +1,5 @@
 [
   {
-    "2023-12-06": {
-      "entrees": [
-        "POPCORN CHICKEN"
-      ]
-    }
-  },
-  {
     "2023-12-07": {
       "entrees": [
         "CORN DOG"
@@ -164,6 +157,13 @@
     "2024-01-10": {
       "entrees": [
         "BREADED MOZZARELLA STIX"
+      ]
+    }
+  },
+  {
+    "2024-01-11": {
+      "entrees": [
+        "MINI CORN DOGS"
       ]
     }
   }

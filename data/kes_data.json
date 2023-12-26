@@ -1,12 +1,5 @@
 [
   {
-    "2023-12-18": {
-      "entrees": [
-        "CHICKEN NUGGETS"
-      ]
-    }
-  },
-  {
     "2023-12-19": {
       "entrees": [
         "HOT DOG ON BUN"
@@ -162,6 +155,13 @@
     "2024-01-22": {
       "entrees": [
         "CHICKEN PATTY ON BUN"
+      ]
+    }
+  },
+  {
+    "2024-01-23": {
+      "entrees": [
+        "HAMBURGER ON BUN"
       ]
     }
   }

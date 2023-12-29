@@ -1,12 +1,5 @@
 [
   {
-    "2023-12-21": {
-      "entrees": [
-        "CORN DOG"
-      ]
-    }
-  },
-  {
     "2023-12-22": {
       "entrees": [
         "CHEESE PIZZA"
@@ -162,6 +155,13 @@
     "2024-01-25": {
       "entrees": [
         "MINI CORN DOGS"
+      ]
+    }
+  },
+  {
+    "2024-01-26": {
+      "entrees": [
+        "BOSCO CHEESE BREADSTICK"
       ]
     }
   }

@@ -1,40 +1,5 @@
 [
   {
-    "2024-04-15": {
-      "entrees": [
-        "MINI CORN DOGS"
-      ]
-    }
-  },
-  {
-    "2024-04-16": {
-      "entrees": [
-        "HAMBURGER ON BUN"
-      ]
-    }
-  },
-  {
-    "2024-04-17": {
-      "entrees": [
-        "BREADED MOZZARELLA STIX"
-      ]
-    }
-  },
-  {
-    "2024-04-18": {
-      "entrees": [
-        "CHICKEN PATTY ON BUN"
-      ]
-    }
-  },
-  {
-    "2024-04-19": {
-      "entrees": [
-        "BOSCO CHEESE BREADSTICK"
-      ]
-    }
-  },
-  {
     "2024-04-22": {
       "entrees": [
         "CORN DOG"
@@ -178,6 +143,34 @@
     "2024-05-20": {
       "entrees": [
         "CORN DOG"
+      ]
+    }
+  },
+  {
+    "2024-05-21": {
+      "entrees": [
+        "POPCORN CHICKEN"
+      ]
+    }
+  },
+  {
+    "2024-05-22": {
+      "entrees": [
+        "HOT DOG ON BUN"
+      ]
+    }
+  },
+  {
+    "2024-05-23": {
+      "entrees": [
+        "CHICKEN NUGGETS"
+      ]
+    }
+  },
+  {
+    "2024-05-24": {
+      "entrees": [
+        "TRIPLE DECKER PBJ"
       ]
     }
   }

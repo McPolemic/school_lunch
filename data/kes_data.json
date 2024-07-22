@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "2024-08-13": {
+      "entrees": [
+        "POPCORN CHICKEN",
+        "TURKEY AND CHEESE ON BUN"
+      ]
+    }
+  },
+  {
+    "2024-08-14": {
+      "entrees": [
+        "HOT DOG ON BUN",
+        "PIZZA MUNCHABLE"
+      ]
+    }
+  },
+  {
+    "2024-08-15": {
+      "entrees": [
+        "CHICKEN NUGGETS",
+        "UNCRUSTABLE BOX LUNCH"
+      ]
+    }
+  },
+  {
+    "2024-08-16": {
+      "entrees": [
+        "CHEESE PIZZA",
+        "HAM AND CHEESE ON BUN"
+      ]
+    }
+  },
+  {
+    "2024-08-19": {
+      "entrees": [
+        "MINI CORN DOGS",
+        "CHIPS W CHEESE/SALSA"
+      ]
+    }
+  }
+]

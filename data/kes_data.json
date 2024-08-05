@@ -77,5 +77,37 @@
         "CHIPS W CHEESE/SALSA"
       ]
     }
+  },
+  {
+    "2024-08-27": {
+      "entrees": [
+        "POPCORN CHICKEN",
+        "TURKEY AND CHEESE ON BUN"
+      ]
+    }
+  },
+  {
+    "2024-08-28": {
+      "entrees": [
+        "HOT DOG ON BUN",
+        "PIZZA MUNCHABLE"
+      ]
+    }
+  },
+  {
+    "2024-08-29": {
+      "entrees": [
+        "CHICKEN NUGGET",
+        "UNCRUSTABLE BOX LUNCH"
+      ]
+    }
+  },
+  {
+    "2024-08-30": {
+      "entrees": [
+        "CHEESE PIZZA",
+        "HAM AND CHEESE ON BUN"
+      ]
+    }
   }
 ]

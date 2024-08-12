@@ -18,6 +18,7 @@
   {
     "2024-08-15": {
       "entrees": [
+        "CHICKEN NUGGET",
         "UNCRUSTABLE BOX LUNCH"
       ]
     }
@@ -107,6 +108,54 @@
       "entrees": [
         "CHEESE PIZZA",
         "HAM AND CHEESE ON BUN"
+      ]
+    }
+  },
+  {
+    "2024-09-02": {
+      "entrees": [
+        "CORN DOG",
+        "CHIPS W CHEESE/SALSA"
+      ]
+    }
+  },
+  {
+    "2024-09-03": {
+      "entrees": [
+        "POPCORN CHICKEN",
+        "TURKEY AND CHEESE ON BUN"
+      ]
+    }
+  },
+  {
+    "2024-09-04": {
+      "entrees": [
+        "HOT DOG ON BUN",
+        "PIZZA MUNCHABLE"
+      ]
+    }
+  },
+  {
+    "2024-09-05": {
+      "entrees": [
+        "CHICKEN NUGGET",
+        "UNCRUSTABLE BOX LUNCH"
+      ]
+    }
+  },
+  {
+    "2024-09-06": {
+      "entrees": [
+        "CHEESE PIZZA",
+        "HAM AND CHEESE ON BUN"
+      ]
+    }
+  },
+  {
+    "2024-09-09": {
+      "entrees": [
+        "MINI CORN DOGS",
+        "CHIPS W CHEESE/SALSA"
       ]
     }
   }

@@ -158,5 +158,45 @@
         "CHIPS W CHEESE/SALSA"
       ]
     }
+  },
+  {
+    "2024-09-10": {
+      "entrees": [
+        "HAMBURGER ON BUN",
+        "TURKEY AND CHEESE ON BUN"
+      ]
+    }
+  },
+  {
+    "2024-09-11": {
+      "entrees": [
+        "BREADED MOZZARELLA STIX",
+        "PIZZA MUNCHABLE"
+      ]
+    }
+  },
+  {
+    "2024-09-12": {
+      "entrees": [
+        "CHICKEN PATTY ON BUN",
+        "UNCRUSTABLE BOX LUNCH"
+      ]
+    }
+  },
+  {
+    "2024-09-13": {
+      "entrees": [
+        "BOSCO CHEESE BREADSTICK",
+        "HAM AND CHEESE ON BUN"
+      ]
+    }
+  },
+  {
+    "2024-09-16": {
+      "entrees": [
+        "CORN DOG",
+        "CHIPS W CHEESE/SALSA"
+      ]
+    }
   }
 ]

@@ -1,37 +1,5 @@
 [
   {
-    "2024-08-13": {
-      "entrees": [
-        "POPCORN CHICKEN",
-        "TURKEY AND CHEESE ON BUN"
-      ]
-    }
-  },
-  {
-    "2024-08-14": {
-      "entrees": [
-        "HOT DOG ON BUN",
-        "PIZZA MUNCHABLE"
-      ]
-    }
-  },
-  {
-    "2024-08-15": {
-      "entrees": [
-        "CHICKEN NUGGET",
-        "UNCRUSTABLE BOX LUNCH"
-      ]
-    }
-  },
-  {
-    "2024-08-16": {
-      "entrees": [
-        "CHEESE PIZZA",
-        "HAM AND CHEESE ON BUN"
-      ]
-    }
-  },
-  {
     "2024-08-19": {
       "entrees": [
         "MINI CORN DOGS",
@@ -195,6 +163,46 @@
     "2024-09-16": {
       "entrees": [
         "CORN DOG",
+        "CHIPS W CHEESE/SALSA"
+      ]
+    }
+  },
+  {
+    "2024-09-17": {
+      "entrees": [
+        "POPCORN CHICKEN",
+        "TURKEY AND CHEESE ON BUN"
+      ]
+    }
+  },
+  {
+    "2024-09-18": {
+      "entrees": [
+        "HOT DOG ON BUN",
+        "PIZZA MUNCHABLE"
+      ]
+    }
+  },
+  {
+    "2024-09-19": {
+      "entrees": [
+        "CHICKEN NUGGET",
+        "UNCRUSTABLE BOX LUNCH"
+      ]
+    }
+  },
+  {
+    "2024-09-20": {
+      "entrees": [
+        "CHEESE PIZZA",
+        "HAM AND CHEESE ON BUN"
+      ]
+    }
+  },
+  {
+    "2024-09-23": {
+      "entrees": [
+        "MINI CORN DOGS",
         "CHIPS W CHEESE/SALSA"
       ]
     }

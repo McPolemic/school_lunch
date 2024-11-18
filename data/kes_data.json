@@ -1,45 +1,5 @@
 [
   {
-    "2024-11-04": {
-      "entrees": [
-        "MINI CORN DOGS",
-        "CHIPS W CHEESE/SALSA"
-      ]
-    }
-  },
-  {
-    "2024-11-05": {
-      "entrees": [
-        "HAMBURGER ON BUN",
-        "TURKEY AND CHEESE ON BUN"
-      ]
-    }
-  },
-  {
-    "2024-11-06": {
-      "entrees": [
-        "BREADED MOZZARELLA STIX",
-        "PIZZA MUNCHABLE"
-      ]
-    }
-  },
-  {
-    "2024-11-07": {
-      "entrees": [
-        "CHICKEN PATTY ON BUN",
-        "UNCRUSTABLE BOX LUNCH"
-      ]
-    }
-  },
-  {
-    "2024-11-08": {
-      "entrees": [
-        "BOSCO CHEESE BREADSTICK",
-        "EGG & CHEESE BENTO BOX"
-      ]
-    }
-  },
-  {
     "2024-11-11": {
       "entrees": [
         "CORN DOG",
@@ -201,6 +161,45 @@
     "2024-12-09": {
       "entrees": [
         "CORN DOG",
+        "CHIPS W CHEESE/SALSA"
+      ]
+    }
+  },
+  {
+    "2024-12-10": {
+      "entrees": [
+        "CHICKEN & WAFFLES",
+        "TURKEY AND CHEESE ON BUN"
+      ]
+    }
+  },
+  {
+    "2024-12-11": {
+      "entrees": [
+        "HOT DOG ON BUN",
+        "PIZZA MUNCHABLE"
+      ]
+    }
+  },
+  {
+    "2024-12-12": {
+      "entrees": [
+        "CHICKEN NUGGET"
+      ]
+    }
+  },
+  {
+    "2024-12-13": {
+      "entrees": [
+        "CHEESE PIZZA",
+        "HAM AND CHEESE ON BUN"
+      ]
+    }
+  },
+  {
+    "2024-12-16": {
+      "entrees": [
+        "MINI CORN DOGS",
         "CHIPS W CHEESE/SALSA"
       ]
     }

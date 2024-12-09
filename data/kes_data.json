@@ -1,45 +1,5 @@
 [
   {
-    "2024-11-25": {
-      "entrees": [
-        "CORN DOG",
-        "CHIPS W CHEESE/SALSA"
-      ]
-    }
-  },
-  {
-    "2024-11-26": {
-      "entrees": [
-        "CHICKEN & WAFFLES",
-        "TURKEY AND CHEESE ON BUN"
-      ]
-    }
-  },
-  {
-    "2024-11-27": {
-      "entrees": [
-        "HOT DOG ON BUN",
-        "PIZZA MUNCHABLE"
-      ]
-    }
-  },
-  {
-    "2024-11-28": {
-      "entrees": [
-        "CHICKEN NUGGET",
-        "UNCRUSTABLE BOX LUNCH"
-      ]
-    }
-  },
-  {
-    "2024-11-29": {
-      "entrees": [
-        "CHEESE PIZZA",
-        "HAM AND CHEESE ON BUN"
-      ]
-    }
-  },
-  {
     "2024-12-02": {
       "entrees": [
         "MINI CORN DOGS",
@@ -50,6 +10,7 @@
   {
     "2024-12-03": {
       "entrees": [
+        "BBQ RIB SANDWICH",
         "TURKEY AND CHEESE ON BUN"
       ]
     }
@@ -65,7 +26,8 @@
   {
     "2024-12-05": {
       "entrees": [
-        "CHICKEN PATTY ON BUN"
+        "CHICKEN PATTY ON BUN",
+        "UNCRUSTABLE BOX LUNCH"
       ]
     }
   },
@@ -104,7 +66,8 @@
   {
     "2024-12-12": {
       "entrees": [
-        "CHICKEN NUGGET"
+        "CHICKEN NUGGET",
+        "UNCRUSTABLE BOX LUNCH"
       ]
     }
   },
@@ -143,7 +106,8 @@
   {
     "2024-12-19": {
       "entrees": [
-        "CHICKEN PATTY ON BUN"
+        "CHICKEN PATTY ON BUN",
+        "UNCRUSTABLE BOX LUNCH"
       ]
     }
   },
@@ -199,6 +163,46 @@
     "2024-12-30": {
       "entrees": [
         "MINI CORN DOGS",
+        "CHIPS W CHEESE/SALSA"
+      ]
+    }
+  },
+  {
+    "2024-12-31": {
+      "entrees": [
+        "HAMBURGER ON BUN",
+        "TURKEY AND CHEESE ON BUN"
+      ]
+    }
+  },
+  {
+    "2025-01-01": {
+      "entrees": [
+        "BREADED MOZZARELLA STIX",
+        "PIZZA MUNCHABLE"
+      ]
+    }
+  },
+  {
+    "2025-01-02": {
+      "entrees": [
+        "CHICKEN PATTY ON BUN",
+        "UNCRUSTABLE BOX LUNCH"
+      ]
+    }
+  },
+  {
+    "2025-01-03": {
+      "entrees": [
+        "BOSCO CHEESE BREADSTICK",
+        "EGG & CHEESE BENTO BOX"
+      ]
+    }
+  },
+  {
+    "2025-01-06": {
+      "entrees": [
+        "CORN DOG",
         "CHIPS W CHEESE/SALSA"
       ]
     }

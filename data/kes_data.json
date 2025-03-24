@@ -1,121 +1,145 @@
 [
   {
-    "2025-03-10": {
+    "2025-03-31": {
       "entrees": [
-        "MINI CORN DOGS",
-        "CHIPS W CHEESE/SALSA"
-      ]
-    }
-  },
-  {
-    "2025-03-11": {
-      "entrees": [
-        "BBQ RIB SANDWICH",
+        "PULLED PORK SANDWICH",
+        "PIZZA MUNCHABLE",
         "TURKEY AND CHEESE ON BUN"
       ]
     }
   },
   {
-    "2025-03-12": {
+    "2025-04-01": {
       "entrees": [
-        "BREADED MOZZARELLA STIX",
-        "PIZZA MUNCHABLE"
+        "CHICKEN ALFREDO",
+        "SOFT PRETZEL & CHEESE CUP",
+        "CHEF SALAD W/EGG/GOLDFISH"
       ]
     }
   },
   {
-    "2025-03-13": {
-      "entrees": [
-        "CHICKEN PATTY ON BUN",
-        "UNCRUSTABLE BOX LUNCH"
-      ]
-    }
-  },
-  {
-    "2025-03-14": {
-      "entrees": [
-        "BOSCO CHEESE BREADSTICK",
-        "EGG & CHEESE BENTO BOX"
-      ]
-    }
-  },
-  {
-    "2025-03-17": {
-      "entrees": [
-        "CORN DOG",
-        "CHIPS W CHEESE/SALSA"
-      ]
-    }
-  },
-  {
-    "2025-03-18": {
-      "entrees": [
-        "CHICKEN & WAFFLES",
-        "TURKEY AND CHEESE ON BUN"
-      ]
-    }
-  },
-  {
-    "2025-03-19": {
+    "2025-04-02": {
       "entrees": [
         "HOT DOG ON BUN",
-        "PIZZA MUNCHABLE"
+        "TURKEY AND CHEESE ON BUN",
+        "CHICKEN TACO SALAD"
       ]
     }
   },
   {
-    "2025-03-20": {
+    "2025-04-03": {
       "entrees": [
-        "CHICKEN NUGGET",
-        "UNCRUSTABLE BOX LUNCH"
+        "BREAKFAST PIZZA BACON/EGG",
+        "TRIPLE DECKER PB+J MEAL",
+        "CHEF SALAD TURKEY W/ROLL"
       ]
     }
   },
   {
-    "2025-03-21": {
-      "entrees": [
-        "CHEESE PIZZA",
-        "HAM AND CHEESE ON BUN"
-      ]
-    }
-  },
-  {
-    "2025-03-24": {
-      "entrees": [
-        "MINI CORN DOGS",
-        "CHIPS W CHEESE/SALSA"
-      ]
-    }
-  },
-  {
-    "2025-03-25": {
-      "entrees": [
-        "HAMBURGER ON BUN",
-        "TURKEY AND CHEESE ON BUN"
-      ]
-    }
-  },
-  {
-    "2025-03-26": {
-      "entrees": [
-        "BREADED MOZZARELLA STIX",
-        "PIZZA MUNCHABLE"
-      ]
-    }
-  },
-  {
-    "2025-03-27": {
-      "entrees": [
-        "CHICKEN PATTY ON BUN",
-        "UNCRUSTABLE BOX LUNCH"
-      ]
-    }
-  },
-  {
-    "2025-03-28": {
+    "2025-04-04": {
       "entrees": [
         "BOSCO CHEESE BREADSTICK",
-        "EGG & CHEESE BENTO BOX"
+        "HAM + CHEDDAR BENTO BOX",
+        "OVEN FRIED CHICKEN SALAD"
+      ]
+    }
+  },
+  {
+    "2025-04-07": {
+      "entrees": [
+        "CHICKEN STRIPS",
+        "CHIPS/CHEESE & SALSA",
+        "CHEF SALAD HAM W/GOLDFISH"
+      ]
+    }
+  },
+  {
+    "2025-04-08": {
+      "entrees": [
+        "SOFT TACO",
+        "HAM AND CHEESE ON BUN",
+        "CHEF SALAD TURKEY W/ROLL"
+      ]
+    }
+  },
+  {
+    "2025-04-09": {
+      "entrees": [
+        "MINI CORN DOGS",
+        "TURKEY AND CHEESE ON BUN",
+        "CHEF SALAD W/EGG/GOLDFISH"
+      ]
+    }
+  },
+  {
+    "2025-04-10": {
+      "entrees": [
+        "PANCAKES",
+        "TRIPLE DECKER PB+J MEAL",
+        "CHICKEN TACO SALAD"
+      ]
+    }
+  },
+  {
+    "2025-04-11": {
+      "entrees": [
+        "BREADED MOZZARELLA STIX",
+        "HAM + CHEDDAR BENTO BOX",
+        "OVEN FRIED CHICKEN SALAD"
+      ]
+    }
+  },
+  {
+    "2025-04-14": {
+      "entrees": [
+        "CHICKEN NUGGET",
+        "PIZZA MUNCHABLE",
+        "CHEF SALAD HAM W/GOLDFISH"
+      ]
+    }
+  },
+  {
+    "2025-04-15": {
+      "entrees": [
+        "CHEESEBURGER ON BUN",
+        "SOFT PRETZEL & CHEESE CUP",
+        "CHICKEN TACO SALAD"
+      ]
+    }
+  },
+  {
+    "2025-04-16": {
+      "entrees": [
+        "COUNTRY FRIED STEAK",
+        "TURKEY AND CHEESE ON BUN",
+        "CHEF SALAD W/EGG/GOLDFISH"
+      ]
+    }
+  },
+  {
+    "2025-04-17": {
+      "entrees": [
+        "FRENCH TOAST STICKS",
+        "TRIPLE DECKER PB+J MEAL",
+        "CHEF SALAD TURKEY W/ROLL"
+      ]
+    }
+  },
+  {
+    "2025-04-18": {
+      "entrees": [
+        "CHEESE PIZZA",
+        "HAM + CHEDDAR BENTO BOX",
+        "OVEN FRIED CHICKEN SALAD"
+      ]
+    }
+  },
+  {
+    "2025-04-21": {
+      "entrees": [
+        "POPCORN CHICKEN",
+        "SOFT PRETZEL & CHEESE CUP",
+        "CHEF SALAD HAM W/GOLDFISH"
       ]
     }
   }

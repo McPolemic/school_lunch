@@ -1,45 +1,137 @@
 [
   {
-    "2025-04-28": {
+    "2025-05-05": {
       "entrees": [
-        "BBQ RIB SANDWICH",
+        "SOFT TACO",
+        "CHIPS/CHEESE & SALSA",
+        "CHEF SALAD TURKEY W/ROLL"
+      ]
+    }
+  },
+  {
+    "2025-05-06": {
+      "entrees": [
+        "CHICKEN STRIPS",
+        "HAM AND CHEESE ON BUN",
+        "CHEF SALAD HAM W/GOLDFISH"
+      ]
+    }
+  },
+  {
+    "2025-05-07": {
+      "entrees": [
+        "MINI CORN DOGS",
+        "TURKEY AND CHEESE ON BUN",
+        "CHEF SALAD W/EGG/GOLDFISH"
+      ]
+    }
+  },
+  {
+    "2025-05-08": {
+      "entrees": [
+        "PANCAKES",
+        "TRIPLE DECKER PB+J MEAL",
+        "CHICKEN TACO SALAD"
+      ]
+    }
+  },
+  {
+    "2025-05-09": {
+      "entrees": [
+        "BOSCO CHEESE BREADSTICK",
+        "HAM + CHEDDAR BENTO BOX",
+        "OVEN FRIED CHICKEN SALAD"
+      ]
+    }
+  },
+  {
+    "2025-05-12": {
+      "entrees": [
+        "CHICKEN NUGGET",
         "PIZZA MUNCHABLE",
         "CHEF SALAD HAM W/GOLDFISH"
       ]
     }
   },
   {
-    "2025-04-29": {
+    "2025-05-13": {
       "entrees": [
+        "CHEESEBURGER ON BUN",
         "SOFT PRETZEL & CHEESE CUP",
-        "CHEF SALAD W/EGG/GOLDFISH"
-      ]
-    }
-  },
-  {
-    "2025-04-30": {
-      "entrees": [
-        "HOT DOG ON BUN",
-        "TURKEY AND CHEESE ON BUN",
         "CHICKEN TACO SALAD"
       ]
     }
   },
   {
-    "2025-05-01": {
+    "2025-05-14": {
       "entrees": [
-        "BREAKFAST PIZZA BACON/EGG",
+        "COUNTRY FRIED STEAK",
+        "TURKEY AND CHEESE ON BUN",
+        "CHEF SALAD W/EGG/GOLDFISH"
+      ]
+    }
+  },
+  {
+    "2025-05-15": {
+      "entrees": [
+        "FRENCH TOAST STICKS",
         "TRIPLE DECKER PB+J MEAL",
         "CHEF SALAD TURKEY W/ROLL"
       ]
     }
   },
   {
-    "2025-05-02": {
+    "2025-05-16": {
       "entrees": [
-        "BREADED MOZZARELLA STIX",
+        "CHEESE PIZZA",
         "HAM + CHEDDAR BENTO BOX",
         "OVEN FRIED CHICKEN SALAD"
+      ]
+    }
+  },
+  {
+    "2025-05-19": {
+      "entrees": [
+        "CHICKEN STRIPS",
+        "POPCORN CHICKEN",
+        "CHICKEN NUGGET",
+        "SOFT PRETZEL & CHEESE CUP",
+        "PIZZA MUNCHABLE"
+      ]
+    }
+  },
+  {
+    "2025-05-20": {
+      "entrees": [
+        "TEXAS STRAW HATS",
+        "HAM AND CHEESE ON BUN",
+        "SOFT PRETZEL & CHEESE CUP"
+      ]
+    }
+  },
+  {
+    "2025-05-21": {
+      "entrees": [
+        "CHICKEN NUGGET",
+        "CHIPS W CHEESE/SALSA"
+      ]
+    }
+  },
+  {
+    "2025-05-22": {
+      "entrees": [
+        "HAM AND CHEESE ON BUN",
+        "TURKEY AND CHEESE ON BUN",
+        "TRIPLE DECKER PB+J MEAL"
+      ]
+    }
+  },
+  {
+    "2025-05-23": {
+      "entrees": [
+        "TURKEY AND CHEESE ON BUN",
+        "HAM AND CHEESE ON BUN",
+        "TRIPLE DECKER PB+J MEAL"
       ]
     }
   }
